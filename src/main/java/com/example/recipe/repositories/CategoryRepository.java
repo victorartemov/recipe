@@ -1,6 +1,6 @@
-package com.example.repositories;
+package com.example.recipe.repositories;
 
-import com.example.domain.Category;
+import com.example.recipe.domain.Category;
 import org.springframework.data.repository.CrudRepository;
 
 public interface CategoryRepository extends CrudRepository<Category, Long> {

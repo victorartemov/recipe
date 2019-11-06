@@ -1,4 +1,4 @@
-package com.example.domain;
+package com.example.recipe.domain;
 
 import lombok.Data;
 
